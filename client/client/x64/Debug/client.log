@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\tejas\Desktop\Chat_application\client\main.cpp(9,35): warning C4081: expected 'newline'; found ';'
+C:\Users\tejas\Desktop\Chat_application\client\main.cpp(34,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\tejas\Desktop\Chat_application\client\x64\Debug\client.exe
